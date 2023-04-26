@@ -1,1 +1,1 @@
-**Taller Reconocimiento del Lenguaje se Señas**
+**Taller Reconocimiento del Lenguaje de Señas**
